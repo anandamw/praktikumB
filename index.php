@@ -16,8 +16,8 @@
     <!-- main -->
     <div class="main">
         <div class="content-main">
-            <h1>Sumenep</h1>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque voluptatibus rerum consequatur earum eveniet, itaque neque corrupti placeat dolorem eligendi.</p>
+            <h1 style="border-color: white; border: 2px; ">Sumenep</h1>
+            <p style="font-size: 4rem;">Bumi Arya Wiraraja</p>
         </div>
 
     </div>
@@ -42,13 +42,16 @@
     </section>
     <!-- contact -->
     <section id="contact">
-        <img class="maps" src="./images/maps musium .jpg" alt="" />
+        <a href="https://maps.app.goo.gl/ARn8yBFVYrHN5Nbj9">
+
+            <img class="maps" src="./images/maps musium .jpg" alt="" />
+        </a>
 
         <form action="" class="form">
             <h1 class="contact-h1">Contact Us</h1>
             <div class="form-input">
                 <div class="input-label">
-                    <label for="username">email</label>
+                    <label for="username">Email</label>
                     <input type="text" name="username" id="username" />
                     <label for="username">Username</label>
 
