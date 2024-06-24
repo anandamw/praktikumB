@@ -2,7 +2,7 @@
 <div class="header">
     <img src="./images/logo.png" class="logo" alt="">
     <ul class="ul-list">
-        <li><a href="">Home</a></li>
+        <li><a href="#">Home</a></li>
         <li class="dropdown">
             <a href="#">Pimpinan Daerah &#9662;</a>
             <ul class="dropdown-menu">
