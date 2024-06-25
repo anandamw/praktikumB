@@ -47,25 +47,24 @@
             <img class="maps" src="./images/maps musium .jpg" alt="" />
         </a>
 
-        <form action="" class="form">
+        <form action="https://formspree.io/f/xnnaaobk" method="post" class="form">
             <h1 class="contact-h1">Contact Us</h1>
             <div class="form-input">
                 <div class="input-label">
-                    <label for="username">Email</label>
-                    <input type="text" name="username" id="username" />
-                    <label for="username">Username</label>
+                    <label for="email">Email</label>
+                    <input type="text" name="email" id="email" required />
 
-                    <input type="text" name="username" id="username" />
+                    <label for="username">Username</label>
+                    <input type="text" name="username" id="username" required />
                 </div>
                 <label for="username">Message</label>
 
-                <textarea name="" id=""></textarea>
+                <textarea name="message" id="message" required></textarea>
+
+                <button type="submit" class="submit-btn" style="margin-top: 5px; background-color: #079b15; border: none; color: white; cursor: pointer;  padding: 5px 0;">Submit</button>
             </div>
         </form>
     </section>
-
-
-
 
 
 

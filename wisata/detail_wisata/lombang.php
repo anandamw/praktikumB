@@ -50,7 +50,38 @@
 
 
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione ipsa non impedit. Aperiam, consequatur id a autem dolores reprehenderit consequuntur ex fuga expedita ipsam iure voluptatem commodi nostrum aliquid. Optio necessitatibus, soluta laudantium, ut facere commodi velit aut doloribus eligendi porro officia. Eaque recusandae nobis voluptates autem atque itaque consequuntur odio, tempora, necessitatibus quia reprehenderit eligendi suscipit. Earum dolorum natus qui accusantium omnis mollitia tenetur eaque. Cumque nulla nisi iste fuga eligendi numquam cupiditate velit id labore, culpa libero non commodi doloremque quod esse quo! Sequi eius totam porro nam beatae itaque quisquam aperiam quas, natus, omnis impedit nulla amet.
+                    Pantai Lombang adalah salah satu destinasi pantai yang terkenal di Madura, tepatnya berada di Kabupaten Sumenep, Jawa Timur. Pantai ini menawarkan pesona alam yang memukau dengan pasir putihnya yang lembut dan air laut yang jernih. Berikut adalah beberapa informasi mengenai Pantai Lombang:
+
+                    Lokasi dan Aksesibilitas
+                    Pantai Lombang terletak di Desa Lombang, Kecamatan Batang-Batang, Kabupaten Sumenep, Madura, Jawa Timur. Lokasinya dapat diakses dengan mudah dari pusat kota Sumenep, dengan perjalanan sekitar 30-40 menit menggunakan kendaraan bermotor.
+
+                    Keindahan Alam
+                    Pantai Lombang dikenal dengan keindahan alamnya yang masih alami dan tenang. Beberapa hal yang menonjol dari pantai ini meliputi:
+
+                    Pasir Putih: Pantai Lombang memiliki pantai dengan pasir putih yang lembut dan bersih. Pasir ini sangat cocok untuk berjemur atau bermain-main dengan anak-anak.
+
+                    Air Laut Jernih: Air laut di Pantai Lombang relatif tenang dan jernih, cocok untuk berenang atau aktivitas snorkeling sederhana untuk menikmati keindahan bawah laut.
+
+                    Pemandangan Sunset: Pantai Lombang juga terkenal dengan pemandangan matahari terbenamnya yang memukau. Menyaksikan matahari terbenam di ufuk barat laut Madura adalah momen yang sangat direkomendasikan bagi pengunjung.
+
+                    Aktivitas dan Fasilitas
+                    Di Pantai Lombang, pengunjung dapat menikmati berbagai aktivitas seperti berenang, berjemur, atau berkeliling pantai. Beberapa fasilitas umum yang tersedia di sekitar pantai antara lain warung makan kecil yang menyajikan hidangan laut segar dan minuman lokal. Terdapat juga penyewaan peralatan snorkeling atau perahu kecil untuk menjelajahi sekitar pantai.
+
+                    Keunikan dan Daya Tarik
+                    Ketenangan dan Kebersihan: Pantai Lombang dikenal dengan kebersihannya dan suasana yang tenang, cocok untuk keluarga atau individu yang mencari tempat untuk bersantai dan menikmati alam.
+
+                    Pemandangan Alam: Selain keindahan pantainya, pengunjung juga dapat menikmati pemandangan alam sekitar yang masih asri dan hijau.
+
+                    Keberagaman Wisata: Pantai Lombang cocok untuk berbagai jenis wisatawan, baik yang mencari ketenangan maupun yang ingin berpetualang di alam.
+
+                    Tips Berkunjung
+                    Pakaian: Kenakan pakaian yang nyaman untuk beraktivitas di pantai, serta bawa pakaian renang dan perlengkapan snorkeling jika Anda berencana untuk berenang atau snorkeling.
+
+                    Pengaturan Waktu: Datanglah di pagi hari untuk menikmati suasana yang lebih sepi atau sore hari untuk menikmati matahari terbenam yang spektakuler.
+
+                    Kebersihan Lingkungan: Selalu menjaga kebersihan pantai dengan tidak membuang sampah sembarangan dan menghargai alam sekitar.
+
+                    Pantai Lombang adalah destinasi pantai yang ideal untuk menghabiskan waktu santai sambil menikmati keindahan alam Madura yang masih alami dan menawan.
                 </p>
             </div>
         </div>
